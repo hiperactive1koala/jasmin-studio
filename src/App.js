@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {Navbar, Home, About, Projects, Tariffs, Reviews, Contact} from './components'
+import {Navbar, Home, About, Projects, Tariffs, Reviews, Studio, Contact} from './components'
 
 const App = () => {
   return (
@@ -11,6 +11,7 @@ const App = () => {
         <Projects/>
         <Tariffs/>
         <Reviews/>
+        <Studio/>
         <Contact/>
     </>
   )

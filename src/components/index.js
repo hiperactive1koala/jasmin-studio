@@ -5,3 +5,4 @@ export {default as Navbar} from "./Navbar/Navbar";
 export {default as Projects} from "./Projects/Projects";
 export {default as Reviews} from "./Reviews/Reviews";
 export {default as Tariffs} from "./Tariffs/Tariffs";
+export {default as Studio} from "./Studio/Studio";
