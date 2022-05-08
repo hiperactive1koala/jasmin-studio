@@ -95,9 +95,10 @@
     }
     @media screen and (max-width:1080px) {
         .header {
-            margin-left: 6%;
+            margin-top: 180px;
+            margin-left: 10%;
             h1 {
-                font-size: 50px;
+                font-size: 60px;
             }
         }
         .order {
@@ -118,13 +119,6 @@
         }
     }
     @media screen and (max-width:920px) {
-        .header {
-            margin-top: 180px;
-            margin-left: 10%;
-            h1 {
-                font-size: 60px;
-            }
-        }
         .order {
             flex-direction: column;
             margin-left: 10%;
